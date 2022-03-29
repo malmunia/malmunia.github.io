@@ -77,7 +77,7 @@
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- endif -%}
           {%- if entry.volume -%}
-            {%- capture volume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
+            {%- capture entryvolume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
