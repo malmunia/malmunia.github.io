@@ -72,12 +72,9 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<em>{{entry.journal}}</em>{{entry.volume}}{%- endcapture -%}
+            {%- capture entrytype -%}<em>{{entry.journal}}</em>{{ ", " }}{{entry.volume}}{{ " (" }}{{entry.number}}{{ ")" }}{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
-          {%- endif -%}
-          {%- if entry.volume -%}
-            {%- capture entryvolume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
