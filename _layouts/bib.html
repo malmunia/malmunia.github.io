@@ -18,7 +18,7 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title">[{{entry.title}}]({{entry.url}})(</div>
           <!-- Author -->
           <div class="author">
           {%- for author in entry.author_array -%}
@@ -114,6 +114,13 @@
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">Manuscript</a>
             {%- else -%}
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Manuscript</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.onlineappendix %}
+            {% if entry.onlineappendix contains '://' -%}
+            <a href="{{ entry.onlineappendix }}" class="btn btn-sm z-depth-0" role="button">Online Appendix</a>
+            {%- else -%}
+            <a href="{{ entry.onlineappendix | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Online Appendix</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
