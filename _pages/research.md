@@ -18,11 +18,13 @@ nav: true
 
 </div>
 
+
+
 #### Working Papers / In progress
 
 * “Information, Fiscal Capacity and Tax Compliance: An Experimental Evaluation”
-  with David J. Henning, [Justine Knebelmann](https://www.parisschoolofeconomics.eu/en/knebelmann-justine/) and [Lin Tian](https://lin-tian.github.io/)
-
+with David J. Henning, [Justine Knebelmann](https://www.parisschoolofeconomics.eu/en/knebelmann-justine/) and [Lin Tian](https://lin-tian.github.io/)
+  
 * “The Value-Added Tax: Theory and Practice”
   with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/)
 
