@@ -126,6 +126,9 @@
             <a href="{{ entry.onlineappendix | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Online Appendix</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.voxeu %}
+            <a href="{{ entry.voxeu }}" class="btn btn-sm z-depth-0" role="button">VoxEU Summary</a>
+          {%- endif %}
           {%- if entry.voxdev %}
             <a href="{{ entry.voxdev }}" class="btn btn-sm z-depth-0" role="button">VoxDev Summary</a>
           {%- endif %}
