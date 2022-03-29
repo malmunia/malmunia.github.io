@@ -89,7 +89,7 @@
         {%- endif %}
 
           <!-- Journal/Book title and date (accepted articles) -->
-          {% if entry.type == "articleacc" -%}
+          {% if entry.type == "book" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{{ ", " }}{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
