@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: CV
 description:
 nav: true
 display_categories: [work, fun]
 ---
 
 #### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-nov-20.pdf) 
-
+  
 
 #### Education
 
