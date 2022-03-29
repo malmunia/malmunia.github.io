@@ -93,7 +93,7 @@
           {% if entry.type == "book" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
             {%- capture entrymonth -%}{{ ", " }}{{ entry.month | capitalize }}{%- endcapture -%}
-            {%- capture entryyear -%}{{ ". " }}{{entry.year}}{{ "." }}{%- endcapture -%}
+            {%- capture entryyear -%}{{entry.year}}{{ "." }}{%- endcapture -%}
           {%- endif -%}
         {%- endif %}
 
