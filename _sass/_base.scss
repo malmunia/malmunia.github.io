@@ -97,9 +97,9 @@ blockquote {
   }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 200px) {
   .profile {
-    width: 100%;
+    width: 10%;
     .address {
       p { display: block; }
     }
