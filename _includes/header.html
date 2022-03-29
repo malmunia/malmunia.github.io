@@ -61,6 +61,15 @@
                 </a>
               </li>
 
+              <!-- Teaching -->
+              <li class="nav-item {% if page.url contains 'Teaching' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/Teaching/' | relative_url }}">teaching
+                  {%- if page.title == "Teaching" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

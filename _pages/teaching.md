@@ -1,11 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Economic Policy (CUNEF), Undergraduate [2021-22]
 
-Organize your courses by years, topics, or universities, however you like!
+Macroeconomics (CUNEF), Undergraduate [2018-21]
+
+Topics in Applied Microeconomics (Warwick), PhD [2014-18]
+
+Public Economics (Warwick), Master [2013-18]
+
+Econometrics (Warwick), Master [2013-18]
