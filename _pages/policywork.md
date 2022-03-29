@@ -19,3 +19,13 @@ nav: true
 * [Evaluating the Macro-representativeness of a Firm-level Database: An Application for the Spanish Economy](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/18/Files/do1802e.pdf)
 	Bank of Spain Occasional Paper 1802, January 2018
 	with [David Lopez-Rodriguez (Bank of Spain)](https://sites.google.com/site/davidlopezrodriguezphd/) and [Enrique Moral Benito (Bank of Spain)](https://www.bde.es/investigador/en/menu/research_staff_a/Moral-Benito__Enrique.html)
+
+#### Tax Expenditures: Efficiency and Cost-Benefit Analysis
+
+I have contributed as an external consultant to the following policy reports:
+
+* [Spending Review, Phase II: Beneficios Fiscales](https://www.airef.es/es/estudio-1-fase-dos-spending-review-beneficios-fiscales/) 
+	Autoridad Independiente de Responsabilidad Fiscal (AIReF), July 2020
+
+* [Gearing Up for a More Efficient Tax System: An Assessment of Tax Efficiency, a Cost Benefit Analysis of Tax Expenditures, and An Exploration of Labor Informality and Its Tax Implications](https://openknowledge.worldbank.org/handle/10986/29394) 
+	World Bank Report, June 2017
