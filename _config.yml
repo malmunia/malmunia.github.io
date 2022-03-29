@@ -71,7 +71,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: |
+contact_note: |+
   Contact note test
   Another line
   Another one
