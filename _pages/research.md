@@ -6,6 +6,8 @@ description:
 years: [accepted,2021,2020,2019,2018,2010]
 nav: true
 ---
+
+#### Publications
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -15,3 +17,16 @@ nav: true
 {% endfor %}
 
 </div>
+
+#### Working Papers / In progress
+
+* “Information, Fiscal Capacity and Tax Compliance: An Experimental Evaluation”
+  with David J. Henning, [Justine Knebelmann](https://www.parisschoolofeconomics.eu/en/knebelmann-justine/) and [Lin Tian](https://lin-tian.github.io/)
+
+* “The Value-Added Tax: Theory and Practice”
+  with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/)
+
+#### Old Working Papers 
+
+* [“Points to Save Lives: Traffic Enforcement Policies and Road Fatalities”](/assets/pdf/points_to_save_lives_oct17.pdf)
+  with [Gonzalo Gaete](http://gonzalogaete.weebly.com/)
