@@ -14,25 +14,31 @@
   - firstname: ["David", "D."]
     url: https://www.bde.es/investigador/en/menu/people/research_staff_a/Lopez-Rodriguez__David.html
 
-"Lopez-Rodriguez":
-  - firstname: ["Antràs", "P."]
+"Antràs":
+  - firstname: ["Pol", "P."]
     url: https://scholar.harvard.edu/antras/html
 
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Morales":
+  - firstname: ["Eduardo", "E."]
+    url: https://sites.google.com/site/edumoralescasado/home/research
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Liu":
+  - firstname: ["Li", "L."]
+    url: https://sites.google.com/site/liulieconomics/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Lockwood":
+  - firstname: ["Ben", "B."]
+    url: https://warwick.ac.uk/fac/soc/economics/staff/blockwood/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Tam":
+  - firstname: ["Eddy", "E."]
+    url: https://www.eddytam.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Guceri":
+  - firstname: ["Irem", "I."]
+    url: https://sites.google.com/view/iremguceri/home
+
+"Scharf":
+  - firstname: ["Kimberley", "Kim", "K"]
+    url: https://www.birmingham.ac.uk/staff/profiles/business/scharf-kimberley.aspx
+
