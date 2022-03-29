@@ -26,9 +26,7 @@ nav: true
 I have contributed as an external consultant to the following policy reports:
 
 * [Spending Review, Phase II: Beneficios Fiscales](https://www.airef.es/es/estudio-1-fase-dos-spending-review-beneficios-fiscales/) 
-
 	Autoridad Independiente de Responsabilidad Fiscal (AIReF), July 2020
 
 * [Gearing Up for a More Efficient Tax System: An Assessment of Tax Efficiency, a Cost Benefit Analysis of Tax Expenditures, and An Exploration of Labor Informality and Its Tax Implications](https://openknowledge.worldbank.org/handle/10986/29394) 
-
 	World Bank Report, June 2017
