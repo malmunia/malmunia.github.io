@@ -6,6 +6,8 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Use of Administrative Data for Research
 
-Organize your courses by years, topics, or universities, however you like!
+* [La gestión de los datos administrativos en España: diagnóstico y retos de futuro](http://www.revistasice.com/index.php/CICE/article/view/7313) [The management of administrative data in Spain: Diagnosis and challenges]
+   Cuadernos Económicos de ICE no. 102, Dec 2021, pp. 103-131
+   with [Pedro Rey-Biel](https://pedroreybiel.com/) (Esade)
