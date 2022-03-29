@@ -90,8 +90,8 @@
           <!-- Journal/Book title and date (accepted articles) -->
           {% if entry.type == "book" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
-            {%- capture entrymonth -%}{{ ", " }}{{ entry.month | capitalize }}{%- endcapture -%}
-            {%- capture entryyear -%}{{entry.year}}{{ "." }}{%- endcapture -%}
+            {%- capture entrytype -%}{{ ", " }}{{ entry.month | capitalize }}{%- endcapture -%}
+            {%- capture entrytype -%}{{entry.year}}{{ "." }}{%- endcapture -%}
           {%- endif -%}
         {%- endif %}
 
