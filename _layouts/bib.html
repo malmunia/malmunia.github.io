@@ -47,7 +47,7 @@
             {%- else -%}
               {%- unless forloop.last -%}
                 {% if author_is_self %}
-                  <em>{{ "with" }}</em>&nbsp;
+                  {{ "with" }}&nbsp;
                 {%- else -%}
                   {% if coauthor_url -%}
                     <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
