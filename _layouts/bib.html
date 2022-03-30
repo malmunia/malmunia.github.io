@@ -60,7 +60,12 @@
                   and <em>{{author.last}}, {{author.first}}</em>
                 {% else -%}
                   {%- if coauthor_url -%}
-                    and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                    {%- if forloop.length == 1 -%}
+                      <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                    {%- endif -%} 
+                    {%- if forloop.length >= 2  -%}
+                      and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                    {%- endif -%} 
                   {% else -%}
                     and {{author.first}} {{author.last}}
                   {%- endif -%}
