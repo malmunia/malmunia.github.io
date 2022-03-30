@@ -94,7 +94,7 @@
               {%- capture entrypages -%}{{ "p. " }}{{entry.pages}}{%- endcapture -%}
             {%- endif -%}
             {% if entry.type == "book" -%}
-              {%- capture entrypages -%}{{ "." }}{%- endcapture -%}
+              {%- capture entrytype -%}{{ "." }}{%- endcapture -%}
             {%- endif -%}
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
