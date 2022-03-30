@@ -50,7 +50,7 @@
                   {{ "with" }}&nbsp;
                 {%- else -%}
                   {% if coauthor_url -%}
-                    <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                    <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
                   {%- else -%}
                     {{author.first}} {{author.last}},&nbsp;
                   {%- endif -%}
