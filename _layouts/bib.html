@@ -90,8 +90,12 @@
             {%- capture entrymonth -%}{{ ", " }}{{ entry.month | capitalize }}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.year -%}
-            {% if entry.type == "article" -%}
-              {%- capture entryyear -%}{{ ". " }}{{entry.year}}{{ ", " }}{{ "p. " }}{{entry.pages}}{%- endcapture -%}
+            {%- if entry.pages -%}
+              {% if entry.type == "article" -%}
+                {%- capture entryyear -%}{{ ". " }}{{entry.year}}{{ ", " }}{{ "p. " }}{{entry.pages}}{%- endcapture -%}
+              {% else -%}
+                {%- capture entryyear -%}{{ ". " }}{{entry.year}}{%- endcapture -%}
+              {%- endif -%}
             {%- endif -%}
             {% if entry.type == "book" -%}
               {%- capture entryyear -%}{{ ", " }}{{entry.year}}{%- endcapture -%}
