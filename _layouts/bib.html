@@ -94,7 +94,7 @@
               {% if entry.type == "article" -%}
                 {%- capture entryyear -%}{{ ". " }}{{entry.year}}{{ ", " }}{{ "p. " }}{{entry.pages}}{%- endcapture -%}
               {% else -%}
-                {%- capture entryyear -%}{{ ". " }}{{entry.year}}{%- endcapture -%}
+                {%- capture entryyear -%}{{ ". " }}{{entry.year}}{{ ", " }}{{entry.no}}{%- endcapture -%}
               {%- endif -%}
             {%- endif -%}
             {% if entry.type == "book" -%}
