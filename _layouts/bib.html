@@ -51,7 +51,7 @@
                 {%- else -%}
                   {% if coauthor_url -%}
                     {%- if forloop.length == 3  -%}
-                      <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                      <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>&nbsp;
                     {%- else -%}
                       <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
                     {%- endif -%}
