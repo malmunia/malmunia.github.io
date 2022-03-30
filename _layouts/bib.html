@@ -61,9 +61,8 @@
                 {% else -%}
                   {%- if coauthor_url -%}
                     {%- if forloop.length == 2 -%}
-                    and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
-                    {% else -%}
-                    <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                      and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                    {%- endif -%} 
                   {% else -%}
                     and {{author.first}} {{author.last}}
                   {%- endif -%}
