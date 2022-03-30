@@ -165,9 +165,14 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           {%- if entry.media %}
-            <a class="media btn btn-sm z-depth-0" role="button">Media</a>
+            <a class="media btn btn-sm z-depth-0" role="button">📰 Media</a>
           {%- endif %}
           </div>
+
+          <!-- Media block -->
+          {%- if entry.media2 -%}
+            <div class="media">{{entry.media1}}{{ ", " }}{{entry.media2}}</a></div>
+          {%- endif -%}
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
