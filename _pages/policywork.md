@@ -12,7 +12,7 @@ nav: true
 	Cuadernos Económicos de ICE no. 102, Dec 2021, pp. 103-131  
 	with [Pedro Rey-Biel](https://pedroreybiel.com/) (Esade)
 
-* [Expanding Access to Administrative Data: The Case of Tax Authorities in Finland and UK](https://link.springer.com/article/10.1007/s10797-018-9525-0) [The management of administrative data in Spain: Diagnosis and challenges]  
+* [Expanding Access to Administrative Data: The Case of Tax Authorities in Finland and UK](https://link.springer.com/article/10.1007/s10797-018-9525-0)
 	International Tax and Public Finance, vol. 26 (3), June 2019, p. 661-676  
 	with [Jarkko Harju](https://sites.google.com/view/jarkkoharju/home), [Kaisa Kotakorpi](https://vatt.fi/en/researcher/kotakorpi-kaisa), [Janne Tukiainen](https://vatt.fi/en/researcher/tukiainen-janne) and Jouko Verho
 
