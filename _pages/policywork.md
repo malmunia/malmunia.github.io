@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /policywork/
-title: Policy Work
+title: Policy work
 description:
 nav: true
 ---
