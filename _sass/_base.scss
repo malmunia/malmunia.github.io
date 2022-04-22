@@ -162,6 +162,7 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
+    text-align: center;
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
