@@ -225,19 +225,28 @@ blockquote {
 }
 
 // Centering nav bar
-nav ul {
-    list-style: none;
+
+nav {
+    position: relative;
+    margin: auto;
     padding: 0;
-    margin: 0;
-    text-align: center; /* step 4*/
-    overflow: auto; /* step 5*/
+    list-style: none;
+    width: 100%;
+    text-align: center; /*add text align-center*/
 }
-nav li {
-    float: left; /* step 1 */
-    width: 20%; /* step 3*/
+
+nav ul li {
+    display: inline-block; /*replace inline to inline-block*/
 }
-nav a {
-    display: block; /* step 2 */
+
+nav ul li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 0;
+    width: 100px;
+    color: #eee;
+    float: left;
+    text-align: center;
 }
 
 // News
