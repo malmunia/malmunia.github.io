@@ -17,9 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Associate Professor of Economics  
-[CUNEF Universidad](https://www.cunef.edu/)
-
 Research Affiliate/Fellow at [CAGE](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/people/#external_associates_menu), [CEPR](https://cepr.org/content/public-economics), [IFS](https://ifs.org.uk/people/profile/5105), [IGC](https://www.theigc.org/search/miguel+almunia) and [Oxford CBT](https://www.sbs.ox.ac.uk/research/centres-and-initiatives/oxford-university-centre-business-taxation).
 
 [Research Summary](/assets/pdf/research_summary_almunia_2022.pdf)
