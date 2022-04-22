@@ -1,9 +1,8 @@
 ---
 layout: about
 title: Short bio
-permalink: /about/
+permalink: /
 subtitle: 
-nav: true 
 
 profile:
   align: right
