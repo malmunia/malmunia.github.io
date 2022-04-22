@@ -130,6 +130,7 @@ blockquote {
 }
 
 .navbar li {
+  text-align: center;
   display:inline;
 }
 
@@ -154,6 +155,7 @@ blockquote {
     }
 }
 .navbar.navbar-light {
+  text-align: center;
   a {
     &:hover {
       text-decoration: none;
