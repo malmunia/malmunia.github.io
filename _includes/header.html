@@ -3,14 +3,15 @@
 
       <!-- Nav Bar -->
       <h1 class="center">Miguel Almunia</h1> 
+      <h2 class="center">Associate Professor of Economics, CUNEF Universidad</h2> 
       <!-- {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}--> 
 
-      <nav id="navbar" class="navbar navbar-light navbar-expand-sm ">
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm center">
         <div class="container">
           {% if page.title != "about" -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
+          <!--<a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
               {%- if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif -%}
-          </a>
+          </a> -->
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
           <div class="navbar-brand social">
