@@ -152,6 +152,7 @@ blockquote {
 }
 .navbar.navbar-light {
   text-align: center;
+  justify-content: center;
   a {
     &:hover {
       text-decoration: none;
@@ -193,6 +194,8 @@ blockquote {
 }
 
 .navbar-toggler {
+  text-align: center;
+  justify-content: center;
   .icon-bar {
     display: block;
     width: 22px;
