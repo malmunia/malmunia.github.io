@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: Short bio
 permalink: /
 subtitle: 
 
@@ -22,3 +22,6 @@ I am Associate Professor of Economics at CUNEF Universidad. Previously, I was As
 I am an applied microeconomist and my main field of research is empirical public finance. The broad question guiding my research agenda is how economic agents — households and firms — respond to government policies, namely taxes and regulations.
 
 [Research Summary](/assets/pdf/research_summary_almunia_2022.pdf)
+
+
+
