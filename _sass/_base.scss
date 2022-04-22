@@ -123,7 +123,6 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  text-align: center;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
@@ -150,7 +149,6 @@ blockquote {
     }
 }
 .navbar.navbar-light {
-  text-align: center;
   a {
     &:hover {
       text-decoration: none;
@@ -160,7 +158,6 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
-    text-align: center;
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
