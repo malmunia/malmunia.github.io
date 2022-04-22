@@ -226,29 +226,6 @@ blockquote {
 
 // Centering nav bar
 
-nav {
-    position: relative;
-    margin: auto;
-    padding: 0;
-    list-style: none;
-    width: 100%;
-    text-align: center; /*add text align-center*/
-}
-
-nav ul li {
-    display: inline-block; /*replace inline to inline-block*/
-}
-
-nav ul li a {
-    display: inline-block;
-    text-decoration: none;
-    padding: 5px 0;
-    width: 100%;
-    color: #eee;
-    float: left;
-    text-align: center;
-}
-
 ul {
         list-style-type: none;
         margin: 0;
