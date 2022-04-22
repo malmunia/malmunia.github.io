@@ -229,7 +229,7 @@ blockquote {
 nav {
     position: relative;
     margin-left: -10px;
-    margin-right: 50px;
+    margin-right: 60px;
     padding: 0;
     list-style: none;
     width: 100%;
@@ -242,13 +242,11 @@ nav ul li a {
     display: inline-block;
     text-decoration: none;
     padding: 5px 0;
-    width: 80px;
+    width: 100px;
     background: var(--global-bg-color);
     color: var(--global-text-color);
     float: left;
     text-align: center;
-    border-left: 1px solid var(--global-text-color);
-    border-right: 1px solid var(--global-text-color);
 }
 
 // News
