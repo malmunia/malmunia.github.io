@@ -124,10 +124,13 @@ blockquote {
 .navbar {
   box-shadow: none;
   text-align: center;
-  display: inline-block;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+}
+
+.navbar li {
+  display:inline;
 }
 
 .navbar .dropdown-menu {
