@@ -13,8 +13,35 @@
               </li>
 
               <li class="center">
-                <a class="nav-link" href="{{ '/' | relative_url }}">about</a>
+                <a class="nav-link" href="{{ '/cv/' | relative_url }}">cv</a>
               </li>
+
+              <li class="center">
+                <a class="nav-link" href="{{ '/research/' | relative_url }}">research</a>
+              </li>
+
+               <li class="center">
+                <a class="nav-link" href="{{ '/policywork/' | relative_url }}">policy work</a>
+              </li>
+
+               <li class="center">
+                <a class="nav-link" href="{{ '/teaching/' | relative_url }}">teaching</a>
+              </li>
+
+               <li class="center">
+                <a class="nav-link" href="{{ '/contact/' | relative_url }}">contact</a>
+              </li>
+
+              {%- if site.enable_darkmode %}
+              <!-- Toogle theme mode -->
+              <div class = "toggle-container">
+                <a id = "light-toggle">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </a>
+              </div>
+              {%- endif %}
+
             </ul>
           </nav> 
 
