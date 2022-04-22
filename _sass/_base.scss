@@ -224,6 +224,31 @@ blockquote {
   }
 }
 
+// Centered navbar
+
+nav {
+    position: relative;
+    margin: auto;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    text-align: center;/*add text align-center*/
+}
+nav ul li {
+    display: inline-block;/*replace inline to inline-block*/
+}
+nav ul li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 0;
+    width: 100px;
+    background: #Cc3399;
+    color: #eee;
+    float: left;
+    text-align: center;
+    border-left: 1px solid #fff;
+}
+
 // News
 
 .news table td {
