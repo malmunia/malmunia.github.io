@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years: [accepted,2021,2020,2019,2018,2012,2010]
+years: [forthcoming,2021,2020,2019,2018,2012,2010]
 nav: true
 ---
 
