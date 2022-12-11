@@ -32,7 +32,7 @@ display_categories: [work, fun]
 
 #### Awards
 
-* [Julian Marias Prize](https://www.comunidad.madrid/noticias/2022/11/17/comunidad-madrid-reconoce-labor-materia-cancer-premios-investigacion-2022) for researchers under 40 in the Madrid Region, 2022
+* [Julian Marias Prize](https://www.cunef.edu/miguel-almunia-profesor-de-cunef-universidad-logra-el-premio-julian-marias-a-investigadores-menores-de-40-anos/) for researchers under 40 in the Madrid Region, 2022
 * [Vanguardia de la Ciencia Award](https://www.lavanguardia.com/ciencia/20190125/461440766/vanguardia-ciencia-evasion-fiscal.html) (shortlisted), 2019
 * [Young Economist Award](https://www.iipf.org/yeaw.htm), International Institute of Public Finance (IIPF), 2015
 * George Break Prize in Public Finance, UC Berkeley, 2011
