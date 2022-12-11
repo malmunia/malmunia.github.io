@@ -7,13 +7,7 @@ nav: true
 display_categories: [work, fun]
 ---
 
-#### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-apr-22.pdf)
-
-#### Education
-
-* PhD in Economics, UC Berkeley, 2013
-* MPA/ID, Harvard Kennedy School, 2008
-* BSc in Economics, Universidad Carlos III de Madrid, 2005
+#### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-dec-22.pdf)
 
 #### Employment
 
@@ -21,8 +15,14 @@ display_categories: [work, fun]
 * Assistant Professor of Economics, [CUNEF Universidad](https://www.cunef.edu/), 2018-2021 
 * Assistant Professor of Economics, [University of Warwick](https://warwick.ac.uk/fac/soc/economics/staff/), 2013-2018
 
-#### Affiliations
+#### Education
 
+* PhD in Economics, UC Berkeley, 2013
+* MPA/ID, Harvard Kennedy School, 2008
+* BSc in Economics, Universidad Carlos III de Madrid, 2005
+
+#### Affiliations
+* Invited Researcher, [J-PAL Europe](https://www.povertyactionlab.org/europe), 2022-present
 * Research Fellow, [Institute for Fiscal Studies (IFS)](https://ifs.org.uk/people/profile/5105), 2021-present
 * Research Affiliate, [Centre for Economic Policy Research (CEPR)](https://cepr.org/content/public-economics), 2018-present
 * Research Fellow, [Oxford Centre for Business Taxation (CBT)](https://www.sbs.ox.ac.uk/research/centres-and-initiatives/oxford-university-centre-business-taxation), 2018-present
