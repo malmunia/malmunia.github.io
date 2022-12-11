@@ -9,6 +9,7 @@ display_categories: [work, fun]
 
 #### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-dec-22.pdf)
 
+
 #### Employment
 
 * Associate Professor of Economics, [CUNEF Universidad](https://www.cunef.edu/), 2022-present 
@@ -31,7 +32,8 @@ display_categories: [work, fun]
 
 #### Awards
 
-* Vanguardia de la Ciencia Award (shortlisted), 2019
-* Young Economist Award, International Institute of Public Finance (IIPF), 2015
+* [Julian Marias Prize](https://www.comunidad.madrid/noticias/2022/11/17/comunidad-madrid-reconoce-labor-materia-cancer-premios-investigacion-2022) for researchers under 40 in the Madrid Region, 2022
+* [Vanguardia de la Ciencia Award](https://www.lavanguardia.com/ciencia/20190125/461440766/vanguardia-ciencia-evasion-fiscal.html) (shortlisted), 2019
+* [Young Economist Award](https://www.iipf.org/yeaw.htm), International Institute of Public Finance (IIPF), 2015
 * George Break Prize in Public Finance, UC Berkeley, 2011
 * Outstanding Graduate Student Instructor (GSI) Award, UC Berkeley, 2011
