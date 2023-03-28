@@ -23,5 +23,9 @@ I am an applied microeconomist and my main field of research is empirical public
 
 [Research Summary](/assets/pdf/research_summary_almunia_2022.pdf)
 
+NEWS
+
+I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
+
 
 
