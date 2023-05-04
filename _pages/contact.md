@@ -8,7 +8,7 @@ nav: true
 
 CUNEF Universidad
 
-C/ Pirineos, 55
+Calle Almansa 101
 
 28040 Madrid, Spain
 

@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-Economic Policy (CUNEF), Undergraduate [2021-22]
+Economic Policy (CUNEF), Undergraduate [2021-23]
 
 Macroeconomics (CUNEF), Undergraduate [2018-21]
 
