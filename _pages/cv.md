@@ -7,7 +7,7 @@ nav: true
 display_categories: [work, fun]
 ---
 
-#### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-dec-22.pdf)
+#### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-apr-23.pdf)
 
 
 #### Employment

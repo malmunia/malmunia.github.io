@@ -9,7 +9,7 @@ nav: true
 
 #### Working Papers / In progress
 
-“Leveraging Trading Networks to Improve Tax Compliance: Experimental Evidence from Uganda”
+[“Leveraging Trading Networks to Improve Tax Compliance: Experimental Evidence from Uganda”](/assets/pdf/uganda_rct_spillovers_2023_05.pdf)
 with [David J. Henning](https://www.linkedin.com/in/david-henning-427b1a91/), [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home) and [Lin Tian](https://lin-tian.github.io/)
 
 “The Added Value of the Value-Added Tax: Empirics meets Theory”
