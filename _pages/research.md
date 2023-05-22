@@ -10,7 +10,8 @@ nav: true
 #### Working Papers / In progress
 
 [Leveraging Trading Networks to Improve Tax Compliance: Experimental Evidence from Uganda](/assets/pdf/uganda_rct_spillovers_2023_05.pdf) \\
-with [David J. Henning](https://djhenning.github.io/), [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home), Dorothy Nakyambadde and [Lin Tian](https://lin-tian.github.io/)
+with [David J. Henning](https://djhenning.github.io/), [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home), Dorothy Nakyambadde and [Lin Tian](https://lin-tian.github.io/) \\
+[CEPR Discussion Paper 18151](https://cepr.org/publications/dp18151) 
 
 Does the Value-Added Tax Add Value? Theory Meets Empirics -- DRAFT COMING SOON! \\
 with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/)
