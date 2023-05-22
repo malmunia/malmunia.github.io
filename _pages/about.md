@@ -23,9 +23,13 @@ I am an applied microeconomist and my main field of research is empirical public
 
 [Research Summary](/assets/pdf/research_summary_almunia_2022.pdf)
 
-NEWS
+NEWS 
 
 I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
 
+UPCOMING PRESENTATIONS
 
+[Workshop on the Economics of Taxation](https://ieb.ub.edu/event/workshop-on-the-economics-of-taxation/), Barcelona May 31-June 1, organized by the IEB and EUTax Observatory
+
+[BSE Summer Forum Workshop on Public Economics](https://bse.eu/summer-forum/workshop-public-economics), Barcelona June 14-15, organized by the Barcelona School of Economics
 
