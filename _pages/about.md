@@ -33,3 +33,5 @@ UPCOMING PRESENTATIONS
 
 [BSE Summer Forum Workshop on Public Economics](https://bse.eu/summer-forum/workshop-public-economics), Barcelona June 14-15, organized by the Barcelona School of Economics
 
+[Annual Conference on the Spanish Economy](https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/banco-de-espana-cemfi-uimp-conference-on-the-spanish-economy.html), Santander, July 6-7, organized by Bank of Spain, CEMFI and UIMP
+
