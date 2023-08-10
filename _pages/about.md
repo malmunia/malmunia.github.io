@@ -25,13 +25,11 @@ I am an applied microeconomist and my main field of research is empirical public
 
 NEWS 
 
-I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
+[July 2023] I've been awarded a [Leonardo research grant](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2023/) from Fundación BBVA to do research on the effects of value-added tax (VAT) reforms in Spain
+
+[Feb - 2023] I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
 
 UPCOMING PRESENTATIONS
 
-[Workshop on the Economics of Taxation](https://ieb.ub.edu/event/workshop-on-the-economics-of-taxation/), Barcelona May 31-June 1, organized by the IEB and EUTax Observatory
-
-[BSE Summer Forum Workshop on Public Economics](https://bse.eu/summer-forum/workshop-public-economics), Barcelona June 14-15, organized by the Barcelona School of Economics
-
-[Annual Conference on the Spanish Economy](https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/banco-de-espana-cemfi-uimp-conference-on-the-spanish-economy.html), Santander, July 6-7, organized by Bank of Spain, CEMFI and UIMP
+Seminar at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/labour-and-public-economics/), November 2nd, 2023
 
