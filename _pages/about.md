@@ -23,11 +23,12 @@ I am an applied microeconomist and my main field of research is empirical public
 
 [Research Summary](/assets/pdf/research_summary_almunia_2022.pdf)
 
-NEWS 
+<b>NEWS</b> 
 
-[July 2023] I've been awarded a [Leonardo research grant](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2023/) from Fundación BBVA to do research on the effects of value-added tax (VAT) reforms in Spain
+July 2023 -- I've been awarded a [Leonardo research grant](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2023/) from Fundación BBVA to do research on the effects of value-added tax (VAT) reforms in Spain
 
-[Feb - 2023] I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
+Feb 2023 -- I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
+
 
 UPCOMING PRESENTATIONS
 
