@@ -7,7 +7,7 @@ nav: true
 display_categories: [work, fun]
 ---
 
-#### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-apr-23.pdf)
+#### [Full CV (pdf)](/assets/pdf/miguel-almunia-cv-jun-23.pdf)
 
 
 #### Employment
@@ -33,6 +33,7 @@ display_categories: [work, fun]
 #### Awards
 
 * [Julian Marias Prize](https://www.cunef.edu/miguel-almunia-profesor-de-cunef-universidad-logra-el-premio-julian-marias-a-investigadores-menores-de-40-anos/) for researchers under 40 in the Madrid Region, 2022
+* [Ramon y Cajal Fellowship](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2022), 2022-2027
 * [Vanguardia de la Ciencia Award](https://www.lavanguardia.com/ciencia/20190125/461440766/vanguardia-ciencia-evasion-fiscal.html) (shortlisted), 2019
 * [Young Economist Award](https://www.iipf.org/yeaw.htm), International Institute of Public Finance (IIPF), 2015
 * George Break Prize in Public Finance, UC Berkeley, 2011
