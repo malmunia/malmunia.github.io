@@ -23,7 +23,8 @@ nav: true
 
 #### Nada es Gratis
 
-I regularly collaborate with the economics blog Nada es Gratis. All my posts (in Spanish) can be found [here](https://nadaesgratis.es/category/miguel-almunia)
+I regularly collaborate with the economics blog Nada es Gratis. \\
+All my posts (in Spanish) can be found [here](https://nadaesgratis.es/category/miguel-almunia)
 
 
 #### Tax Expenditures: Efficiency and Cost-Benefit Analysis
