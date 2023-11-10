@@ -15,7 +15,7 @@ with [David J. Henning](https://djhenning.github.io/), [Justine Knebelmann](http
 
 Does the Value-Added Tax Add Value? Theory Meets Empirics -- DRAFT COMING SOON! \\
 with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/) \\
-In preparation for the Journal of Economic Perspectives
+<b>Journal of Economic Perspectives</b>, <i>forthcoming</i>
 
 Size-dependent Regulations in Spain \\
 with [Juan F. Jimeno](https://www.bde.es/investigador/en/menu/people/research_staff_a/Jimeno_Serrano__Juan_Francisco.html), [David Lopez-Rodriguez](https://sites.google.com/site/davidlopezrodriguezphd/home) and [Borja Petit](https://borjapetit.github.io/)
