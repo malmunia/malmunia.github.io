@@ -14,7 +14,7 @@ with [David J. Henning](https://djhenning.github.io/), [Justine Knebelmann](http
 [CEPR Discussion Paper 18151](https://cepr.org/publications/dp18151) 
 
 Does the Value-Added Tax Add Value? Theory Meets Empirics -- DRAFT COMING SOON! \\
-with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/)
+with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/) \\
 In preparation for the Journal of Economic Perspectives
 
 Size-dependent Regulations in Spain \\

@@ -21,9 +21,14 @@ nav: true
 	with [David Lopez-Rodriguez](https://sites.google.com/site/davidlopezrodriguezphd/) and [Enrique Moral Benito](https://www.bde.es/investigador/en/menu/research_staff_a/Moral-Benito__Enrique.html)
 
 
+#### Nada es Gratis
+
+I regularly collaborate with the economics blog Nada es Gratis. All my posts (in Spanish) can be found [here](https://nadaesgratis.es/category/miguel-almunia)
+
+
 #### Tax Expenditures: Efficiency and Cost-Benefit Analysis
 
-I have contributed as an external consultant to the following policy reports:
+I have contributed as an external consultant to the following policy reports on tax expenditures:
 
 * [Spending Review, Phase II: Beneficios Fiscales](https://www.airef.es/es/estudio-1-fase-dos-spending-review-beneficios-fiscales/)  
 	Autoridad Independiente de Responsabilidad Fiscal (AIReF), July 2020

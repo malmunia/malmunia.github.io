@@ -30,7 +30,9 @@ July 2023 -- I've been awarded a [Leonardo research grant](https://www.redleonar
 Feb 2023 -- I received the 2022 [Julián Marías Prize](https://www.cunef.edu/en/miguel-almunia-a-professor-at-cunef-universidad-wins-the-julian-marias-award-for-researchers-under-40/) for researchers under 40 in Social Science and Humanities in the Madrid Region
 
 
-UPCOMING PRESENTATIONS
+<b>UPCOMING PRESENTATIONS</b>
 
 Seminar at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/labour-and-public-economics/), November 2nd, 2023
+
+Simposio of the [Spanish Economic Association](https://www.asesec.org/simposio/), Salamanca, December 14-16, 2023
 
