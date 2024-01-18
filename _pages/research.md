@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years: [forthcoming,2021,2020,2019,2018,2012,2010]
+years: [2024,2021,2020,2019,2018,2012,2010]
 nav: true
 ---
 
@@ -13,7 +13,7 @@ nav: true
 with [David J. Henning](https://djhenning.github.io/), [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home), Dorothy Nakyambadde and [Lin Tian](https://lin-tian.github.io/) \\
 [CEPR Discussion Paper 18151](https://cepr.org/publications/dp18151) 
 
-Does the Value-Added Tax Add Value? Theory Meets Empirics -- DRAFT COMING SOON! \\
+Does the Value-Added Tax Add Value? Theory Meets Empirics \\
 with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/) \\
 <b>Journal of Economic Perspectives</b>, <i>forthcoming</i>
 
