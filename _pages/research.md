@@ -9,10 +9,6 @@ nav: true
 
 #### Working Papers / In progress
 
-Does the Value-Added Tax Add Value? Lessons Using Administrative Data from a Diverse Set of Countries \\
-with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/) \\
-<b>Journal of Economic Perspectives</b>, <i>forthcoming</i>
-
 Leveraging Trading Networks to Improve Tax Compliance: Experimental Evidence from Uganda \\ %(/assets/pdf/uganda_rct_spillovers_2023_05.pdf) 
 with [David J. Henning](https://djhenning.github.io/), [Justine Knebelmann](https://sites.google.com/view/justine-knebelmann/home), Dorothy Nakyambadde and [Lin Tian](https://lin-tian.github.io/) \\
 %[CEPR Discussion Paper 18151](https://cepr.org/publications/dp18151) 
@@ -26,6 +22,12 @@ with [Juan F. Jimeno](https://www.bde.es/investigador/en/menu/people/research_st
 
 
 #### Publications
+
+Does the Value-Added Tax Add Value? Lessons Using Administrative Data from a Diverse Set of Countries \\
+with [Anne Brockmeyer](https://www.annebrockmeyer.com/), [Giulia Mascagni](https://www.giuliamascagni.net/), [Vedanth Nair](https://ifs.org.uk/people/profile/5001) and [Mazhar Waseem](https://mazharwaseem.com/) \\
+<b>Journal of Economic Perspectives</b>, <i>forthcoming</i>
+
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
